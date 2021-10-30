@@ -1,6 +1,6 @@
 # Login with node
 
-Register and login with node js and ejs for view-engine
+Register and login with node js and ejs for template engine
 
 ## Available Scripts
 
